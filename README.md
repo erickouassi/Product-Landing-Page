@@ -1,5 +1,5 @@
 
-https://github.com/erickouassi/Product-Landing-Page
+https://erickouassi.github.io/Product-Landing-Page/
 
 ## Welcome to GitHub Pages
 
